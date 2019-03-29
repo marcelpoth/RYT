@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa');
+
+body {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    background: url("images/blue-1780281_1920.png");
+}
+
+input[type=text] {
+    font-family: 'Comfortaa', cursive;
+    border: 1px  #999;
+    border-radius: 10px;
+    text-align: center;
+    -webkit-appearance: none;
+    width: 300px;
+    height: 30px;
+    margin-bottom: 1.3em;
+  }
+
+  input[type=password] {
+    font-family: 'Comfortaa', cursive;
+    border: 1px  #999;
+    text-align: center;
+    border: none;
+    border-radius: 10px;
+    width: 300px;
+    height: 30px;
+    -webkit-appearance: none;
+  }
+
+  input[type=submit] {
+    font-family: 'Comfortaa', cursive;
+    margin-top: 1.3em;
+    text-align: center;
+    border: none;
+    border-radius: 10px;
+    width: 150px;
+    height: 30px;
+    -webkit-appearance: none;
+    background-color: grey;
+    color: white;
+    font-size: 0.9em;
+    font-weight: bold;
+  } 
+
+  h1 {
+    font-family: 'Comfortaa', cursive;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+  }
+  h2 {
+    font-family: 'Comfortaa', cursive;
+    color: white;
+    text-align: center;
+  }
+  p {
+    font-family: 'Comfortaa', cursive;
+    color: white;
+    margin-bottom: 0.2em;
+  }
+  

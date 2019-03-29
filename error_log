@@ -1,0 +1,20 @@
+[25-Mar-2019 19:39:24 UTC] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/gsnknrmr/public_html/cu.php on line 47
+[26-Mar-2019 16:14:22 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gsnknrmr/public_html/index.php on line 27
+[26-Mar-2019 16:14:26 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/gsnknrmr/public_html/index.php on line 27
+[26-Mar-2019 16:35:14 UTC] PHP Parse error:  syntax error, unexpected 'teacher' (T_STRING), expecting ',' or ';' in /home/gsnknrmr/public_html/overview.php on line 32
+[26-Mar-2019 16:35:16 UTC] PHP Parse error:  syntax error, unexpected 'teacher' (T_STRING), expecting ',' or ';' in /home/gsnknrmr/public_html/overview.php on line 32
+[26-Mar-2019 16:36:11 UTC] PHP Parse error:  syntax error, unexpected 'teacher' (T_STRING), expecting ',' or ';' in /home/gsnknrmr/public_html/overview.php on line 32
+[26-Mar-2019 16:36:11 UTC] PHP Parse error:  syntax error, unexpected 'teacher' (T_STRING), expecting ',' or ';' in /home/gsnknrmr/public_html/overview.php on line 32
+[26-Mar-2019 16:36:12 UTC] PHP Parse error:  syntax error, unexpected 'teacher' (T_STRING), expecting ',' or ';' in /home/gsnknrmr/public_html/overview.php on line 32
+[26-Mar-2019 16:36:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/gsnknrmr/public_html/overview.php on line 39
+[26-Mar-2019 16:36:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/gsnknrmr/public_html/overview.php on line 39
+[26-Mar-2019 17:05:14 UTC] PHP Parse error:  syntax error, unexpected 'pp' (T_STRING), expecting ',' or ';' in /home/gsnknrmr/public_html/overview.php on line 35
+[26-Mar-2019 17:05:16 UTC] PHP Parse error:  syntax error, unexpected 'pp' (T_STRING), expecting ',' or ';' in /home/gsnknrmr/public_html/overview.php on line 35
+[26-Mar-2019 17:06:15 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/gsnknrmr/public_html/overview.php on line 35
+[26-Mar-2019 17:06:16 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/gsnknrmr/public_html/overview.php on line 35
+[26-Mar-2019 17:06:17 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/gsnknrmr/public_html/overview.php on line 35
+[26-Mar-2019 17:08:00 UTC] PHP Parse error:  syntax error, unexpected '$pp' (T_VARIABLE), expecting ',' or ';' in /home/gsnknrmr/public_html/overview.php on line 37
+[26-Mar-2019 17:08:02 UTC] PHP Parse error:  syntax error, unexpected '$pp' (T_VARIABLE), expecting ',' or ';' in /home/gsnknrmr/public_html/overview.php on line 37
+[26-Mar-2019 17:08:02 UTC] PHP Parse error:  syntax error, unexpected '$pp' (T_VARIABLE), expecting ',' or ';' in /home/gsnknrmr/public_html/overview.php on line 37
+[26-Mar-2019 17:08:40 UTC] PHP Parse error:  syntax error, unexpected '{', expecting ',' or ';' in /home/gsnknrmr/public_html/overview.php on line 37
+[26-Mar-2019 18:43:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/gsnknrmr/public_html/cu.php on line 152

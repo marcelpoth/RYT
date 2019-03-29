@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa');
+
+body {
+    margin: 0;
+    background: url("images/blue-1780281_1920.png");
+}
+
+input[type=text] {
+    font-family: 'Comfortaa', cursive;
+    border: 1px  #999;
+    border-radius: 10px;
+    text-align: center;
+    -webkit-appearance: none;
+    width: 300px;
+    height: 30px;
+    margin-bottom: 1.3em;
+  }
+
+
+  input[type=password] {
+    font-family: 'Comfortaa', cursive;
+    border: 1px  #999;
+    text-align: center;
+    border: none;
+    border-radius: 10px;
+    width: 300px;
+    height: 30px;
+    -webkit-appearance: none;
+  }
+
+  input[type=submit] {
+    font-family: 'Comfortaa', cursive;
+    margin-top: 1.3em;
+    text-align: center;
+    border: none;
+    border-radius: 10px;
+    width: 150px;
+    height: 30px;
+    -webkit-appearance: none;
+    background-color: grey;
+    color: white;
+    
+  } 
+
+  h1 {
+    font-family: 'Comfortaa', cursive;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+  }
+  p {
+    font-family: 'Comfortaa', cursive;
+    color: white;
+    margin-bottom: 0.2em;
+  }
+
+  .teacher {
+      width: 20%;
+      background-color: white;
+      float: left;
+      margin: 2%;
+      border-radius: 5px;
+      min-height: 650px;
+      opacity: 0.9;
+  }
+
+  .teacher p {
+    color: rgb(0, 0, 0);
+    margin-left: 0.8em;
+
+  }
+  .teacher img {
+    width: 100%;
+    border-radius: 5px;
+  }
+
+  button {
+    font-family: 'Comfortaa', cursive;
+    margin-top: 1.3em;
+    text-align: center;
+    border: none;
+    border-radius: 10px;
+    width: 150px;
+    height: 30px;
+    -webkit-appearance: none;
+    background-color: grey;
+    color: white;
+    
+  } 
+  
+
+  .overlay {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.5);
+    z-index: 99;
+    cursor: pointer;
+  }
+  
+
+  #text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 50px;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  
+  
