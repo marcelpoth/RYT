@@ -41,7 +41,6 @@
                     <p>$name $surname</p>
                     <p>Rating: $avg_rating/10</p>
                     <p>ID: $dbid</p>
-                    <button onClick='on($dbid)'>Mer</button>
                 </div>"; 
 
                 echo "
@@ -62,11 +61,15 @@
 
 
     function on(id) {
-    document.getElementById("overlay" + id).style.display = "block";
+        alert('<?=$dbid?>');
+        document.getElementById("overlay" + id).style.display = "block";
+        
     }
 
-    function off(id) {
-    document.getElementById("overlay" + id).style.display = "none";
+    function off() {
+        alert('<?=$dbid?>');
+        document.getElementById("overlay" + id).style.display = "none";
+    
     }
 </script>
 
